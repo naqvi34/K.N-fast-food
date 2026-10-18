@@ -1,0 +1,15 @@
+{
+  "name": "K.N Fast Food POS",
+  "short_name": "K.N POS",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3076/3076137.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
